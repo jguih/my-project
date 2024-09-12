@@ -2,6 +2,8 @@
 
 ## Helpers
 
+Comandos utilitários do git:
+
 ```bash
 git status
 ```
@@ -12,7 +14,7 @@ Mostra o estado atual do repositório.
 git add *
 ```
 
-Adiciona todos os arquivos do repositório na Staging Area.
+Adiciona todos os arquivos do repositório à Staging Area.
 
 ## Branches
 
